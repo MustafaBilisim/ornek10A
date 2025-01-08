@@ -1,0 +1,9 @@
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\bin\Debug\10A-ornek.exe.config
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\bin\Debug\10A-ornek.exe
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\bin\Debug\10A-ornek.pdb
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\_10A_ornek.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.exe
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.pdb
