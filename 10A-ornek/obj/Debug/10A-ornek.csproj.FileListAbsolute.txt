@@ -7,3 +7,4 @@ C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.csproj.Gen
 C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.exe
 C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\10A-ornek.pdb
+C:\Users\Mustafa\source\repos\10A-ornek\10A-ornek\obj\Debug\_10A_ornek.Form1.resources
